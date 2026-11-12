@@ -1,4 +1,4 @@
-/* Week 5 lab — IPv4 forwarding, plus a custom tunnel header that you will finish.
+/* Week 5 copy lab — IPv4 forwarding, plus a custom tunnel header that you will finish.
  *
  * As supplied, this program forwards IPv4 by longest-prefix match. The tunnel header, its
  * table and its action are already declared; Steps 4–6 of the lab connect them to the
